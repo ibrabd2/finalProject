@@ -1,0 +1,24 @@
+
+.laptop {
+    width: 512px;
+    height: 512px;
+    background-position: -271px -5px;
+}
+
+.logo {
+    width: 235px;
+    height: 234px;
+    background-position: -5px -527px;
+}
+
+.mobile {
+    width: 512px;
+    height: 512px;
+    background-position: -793px -5px;
+}
+
+.tablet {
+    width: 512px;
+    height: 512px;
+    background-position: -250px -527px;
+}
